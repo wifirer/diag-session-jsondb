@@ -1,0 +1,13 @@
+{
+    "data": {
+        "Учетное имя": "username",
+        "MAC-адрес абонента": "erxdhcpmacaddr",
+        "IP-адрес абонента": "framedipaddress",
+        "Старт": "systimestart",
+        "Обновление": "systimeupdate",
+        "Стоп": "systimestop",
+        "IP": "packetsrcipaddress",
+        "VLAN ТКД": "switchvlan",
+        "BRAS": "nasidentifier"
+    }
+}
